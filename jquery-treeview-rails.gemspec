@@ -1,3 +1,5 @@
+require File.expand_path('../lib/jquery_treeview/rails/version', __FILE__)
+
 Gem::Specification.new do |s|
   s.name        = "jquery-treeview-rails"
   s.version     = JqueryTreeview::Rails::VERSION

@@ -1,5 +1,5 @@
 # Configure Rails 3.1 
-class Jquery
+class JqueryTreeview
   module Rails
     class Engine < ::Rails::Engine
     end
